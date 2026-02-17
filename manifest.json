@@ -5,10 +5,11 @@
     {
       "chipFamily": "ESP32",
       "ota": {
-        "md5": "A1E3C381C18D5057F9FEA365C1FDCAC9",
+        "md5": "a1e3c381c18d5057f9fea365c1fdcac9",
         "path": "firmware.ota.bin",
         "summary": "New version 1.0.1. Pundmann 2026"
       }
     }
   ]
 }
+
