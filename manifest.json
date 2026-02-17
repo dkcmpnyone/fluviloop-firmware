@@ -1,0 +1,14 @@
+{
+  "name": "fluviLOOP",
+  "version": "1.0.1",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "A1E3C381C18D5057F9FEA365C1FDCAC9",
+        "path": "/fluviloop/firmware.ota.bin",
+        "summary": "Wersja poczatkowa"
+      }
+    }
+  ]
+}
